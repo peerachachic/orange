@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Hey! I'm Peerachan, welcome to my Github 👋
 
-You can use the [editor on GitHub](https://github.com/peerachachic/orange/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![งานออกแบบที่ไม่มีชื่อ](https://user-images.githubusercontent.com/93777662/140597681-0eaf13d8-3c34-41ea-b1c8-7cc20fff8f1f.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peerachachic/orange/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 👋 Hi, I’m **Peerachan Mengthalek**
+- 👀 I’m interested in **youtuber**
+- 🌱 I’m currently learning **canva,python,github**
+- 📫 How to reach me **peerachantiw@gmail.com**
+ 
+### Talk with me, I am kind awesome:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/tiwchicchic/)               [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008805667173)
